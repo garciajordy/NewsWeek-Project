@@ -13,15 +13,14 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://garciajordy.github.io/NewsWeek-Project/)
 
 ## Authors
 
-👤 **Author1**
+👤 **Jordy Garcia**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/garciajordy)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jordy-garcia-675849206/)
 
 👤 **Kaboha Jean Mark**
 
@@ -46,4 +45,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](./LICENSE) licensed.
