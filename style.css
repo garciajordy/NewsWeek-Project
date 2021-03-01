@@ -56,32 +56,49 @@ a:hover {
 .subscribe {
   background-color: #ff0;
   border-radius: 25px;
-  display: flex;
-  align-items: center;
 }
 
-nav button {
+.nav-head button {
   height: 20px;
   font-size: 15px;
   line-height: 30px;
   padding: 0 10px;
+  
 }
 
 .hidden-user {
   color: #fff;
 }
 
-nav img {
+.nav-head img {
   width: 120px;
 }
 
+.middle-nav a {
+  color: black;
+  border-right: rgb(190, 190, 190) solid 1px;
+}
+
+.last-link {
+  border: none;
+}
+
+.search-nav {
+
+}
 /* MEDIA QUERY FOR LARGE */
+@media only screen and (min-width: 768px) {
+  .fa-bars {
+    transform: scale(1.5);
+  }
+}
+
 @media only screen and (min-width: 992px) {
-  nav img {
+  .nav-head img {
     width: 396px;
   }
 
-  nav button {
+  .nav-head button {
     height: 30px;
   }
 }
