@@ -40,3 +40,30 @@ a:hover {
                 ****** GLOBAL ******
     ==============================================
 */
+
+.top-nav {
+  background-color: #f72210;
+}
+
+.time {
+  color: #fff;
+}
+
+.login {
+  color: #fff;
+}
+
+.subscribe {
+  background-color: #ff0;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+}
+
+nav button {
+  height: 30px;
+  font-size: 15px;
+  line-height: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
