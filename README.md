@@ -1,45 +1,19 @@
-![](https://img.shields.io/badge/myapp-blueviolet)
+![newsweek-clone](https://img.shields.io/badge/myapp-blueviolet)
 
-# Project Name
+# News Week
 
-> One paragraph statement about the project.
+> Created this website clone completely with bootstrap
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./milestone1.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5, CSS3
+- Bootstrap Frameworks
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
@@ -49,11 +23,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
-👤 **Author2**
+👤 **Kaboha Jean Mark**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@KabohaJeanMark](https://github.com/KabohaJeanMark)
+- Twitter: [@jean_quintus](https://twitter.com/jean_quintus)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jean-mark-kaboha-software-engineer/)
 
 ## 🤝 Contributing
 
@@ -67,9 +41,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to Microverse
 - Inspiration
-- etc
 
 ## 📝 License
 
