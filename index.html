@@ -6,10 +6,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Bootstrap 101 Template</title>
+  <title>Newsweek</title>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link
+    rel="stylesheet"
+    href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+    integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+    crossorigin="anonymous"
+  />
   <link rel="stylesheet" href="style.css">
 
 </head>
@@ -18,18 +24,18 @@
   <div class="container-fluid">
     <header>
       <nav>
-        <div class="row top-nav p-3">
-          <div class="col-4 time d-lg-flex align-items-end">
+        <div class="row top-nav p-1 p-lg-3">
+          <div class="col-lg-4 time d-lg-flex align-items-end d-none">
             Wed, Jan 20, 2021
           </div>
-          <div class="col-4 d-lg-flex justify-content-center">
+          <div class="col-lg-4 d-lg-flex justify-content-center col-6">
             <img src="logo.svg" alt="Logo">
           </div>
-          <div class="col-4 d-lg-flex justify-content-end align-items-end">
-            <button type="button" class="btn font-weight-bold login bg-transparent">LOGIN</button>
+          <div class="col-lg-4 d-flex justify-content-end align-items-end col-6">
+            <a href="#" class="hidden-user d-md-none"><i class="fas fa-user"></i></a>
+            <button type="button" class="btn font-weight-bold login bg-transparent d-none d-md-inline-block">LOGIN</button>
             <button type="button" class="btn font-weight-bold subscribe ml-2">SUBSCRIBE ></button>
           </div>
-
         </div>
       </nav>
     </header>

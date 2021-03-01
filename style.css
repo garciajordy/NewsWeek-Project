@@ -61,9 +61,27 @@ a:hover {
 }
 
 nav button {
-  height: 30px;
+  height: 20px;
   font-size: 15px;
   line-height: 30px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 10px;
+}
+
+.hidden-user {
+  color: #fff;
+}
+
+nav img {
+  width: 120px;
+}
+
+/* MEDIA QUERY FOR LARGE */
+@media only screen and (min-width: 992px) {
+  nav img {
+    width: 396px;
+  }
+
+  nav button {
+    height: 30px;
+  }
 }
