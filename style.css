@@ -96,6 +96,14 @@ a:hover {
   color: rgb(97, 93, 93);
 }
 
+.footer img {
+  width: 236px;
+}
+
+.social-media a {
+  color: #000;
+}
+
 .middle-nav a:hover,
 .bottom-nav a:hover {
   text-decoration: none;
