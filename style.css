@@ -63,7 +63,6 @@ a:hover {
   font-size: 15px;
   line-height: 30px;
   padding: 0 10px;
-  
 }
 
 .hidden-user {
@@ -74,18 +73,35 @@ a:hover {
   width: 120px;
 }
 
+.middle-nav,
+.bottom-nav {
+  border-bottom: rgb(190, 190, 190) solid 1px;
+}
+
 .middle-nav a {
   color: black;
   border-right: rgb(190, 190, 190) solid 1px;
 }
 
 .last-link {
-  border: none;
+  border: none !important;
 }
 
 .search-nav {
-
+  border: none;
+  width: 60px;
 }
+
+.bottom-nav a {
+  color: rgb(97, 93, 93);
+}
+
+.middle-nav a:hover,
+.bottom-nav a:hover {
+  text-decoration: none;
+  color: #f72210;
+}
+
 /* MEDIA QUERY FOR LARGE */
 @media only screen and (min-width: 768px) {
   .fa-bars {
