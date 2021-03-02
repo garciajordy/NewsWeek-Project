@@ -158,9 +158,17 @@ a:hover {
   border-top: rgb(231, 231, 231) solid 2px;
 }
 
+.opinion-article {
+  border-bottom: rgb(231, 231, 231) solid 2px;
+}
+
 hr {
   width: 45%;
   size: 3px;
+}
+
+#last-opinion {
+  border: none;
 }
 
 /* MEDIA QUERY FOR LARGE */
