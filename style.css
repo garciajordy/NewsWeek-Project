@@ -32,7 +32,8 @@ a {
 }
 
 a:hover {
-  color: #333;
+  color: rgb(0, 0, 0);
+  text-decoration-color: #f72210;
 }
 
 /*
@@ -169,6 +170,10 @@ hr {
 
 #last-opinion {
   border: none;
+}
+
+.right-text-con {
+  border: rgb(231, 231, 231) solid 1px;
 }
 
 /* MEDIA QUERY FOR LARGE */
