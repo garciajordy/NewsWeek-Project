@@ -92,8 +92,9 @@ a:hover {
   border-right: rgb(190, 190, 190) solid 1px;
 }
 
-.last-link {
-  border: none !important;
+#last-link,
+#last-link2 {
+  border: none;
 }
 
 .search-nav {
