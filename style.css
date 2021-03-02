@@ -62,6 +62,15 @@ a:hover {
   background-color: #ff0;
   border-radius: 25px;
   transform: scale(0.6);
+  color: #000;
+}
+
+.subscribe:hover {
+  color: #000;
+}
+
+.login:hover {
+  color: #fff;
 }
 
 .nav-head button {
