@@ -187,6 +187,10 @@ hr {
   color: rgb(253, 0, 0);
 }
 
+.top-text a:hover {
+  text-decoration: none;
+}
+
 .culture-container a:hover {
   text-decoration: none;
 }
@@ -198,6 +202,7 @@ hr {
 .debate-text {
   color: rgb(70, 70, 70);
   font-weight: 900;
+  font-size: 15px;
 }
 
 /* MEDIA QUERY FOR LARGE */
