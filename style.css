@@ -135,6 +135,20 @@ a:hover {
   text-decoration: none;
 }
 
+.turn-link {
+  font-size: 17px;
+}
+
+.turn-link a:hover {
+  color: #000;
+  text-decoration-color: #f72210;
+}
+
+.turn-container {
+  border-top: rgb(231, 231, 231) solid 1px;
+}
+
+
 /* MEDIA QUERY FOR LARGE */
 @media only screen and (min-width: 768px) {
   .fa-bars {
