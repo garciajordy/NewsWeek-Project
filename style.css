@@ -84,8 +84,9 @@ a:hover {
   border-right: rgb(190, 190, 190) solid 1px;
 }
 
-.last-link {
-  border: none !important;
+#last-link,
+#last-link2 {
+  border: none;
 }
 
 .search-nav {
@@ -175,6 +176,7 @@ hr {
 .right-text-con {
   border: rgb(231, 231, 231) solid 1px;
 }
+
 
 /* MEDIA QUERY FOR LARGE */
 @media only screen and (min-width: 768px) {
