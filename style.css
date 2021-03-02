@@ -61,7 +61,7 @@ a:hover {
 .subscribe {
   background-color: #ff0;
   border-radius: 25px;
-  transform: scale(0.6);
+  transform: scale(0.8);
   color: #000;
 }
 
@@ -215,10 +215,6 @@ hr {
   .fa-bars {
     transform: scale(1.5);
   }
-
-  .subscribe {
-    transform: scale(0.5);
-  }
 }
 
 @media only screen and (min-width: 992px) {
@@ -232,5 +228,9 @@ hr {
 
   .social {
     transform: scale(2);
+  }
+
+  .subscribe {
+    transform: scale(1);
   }
 }
