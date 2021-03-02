@@ -85,7 +85,9 @@ a:hover {
 }
 
 #last-link,
-#last-link2 {
+#last-link2,
+#last-opinion,
+#last-opinion-2 {
   border: none;
 }
 
@@ -166,17 +168,11 @@ a:hover {
 
 hr {
   width: 45%;
-  size: 3px;
-}
-
-#last-opinion {
-  border: none;
 }
 
 .right-text-con {
   border: rgb(231, 231, 231) solid 1px;
 }
-
 
 /* MEDIA QUERY FOR LARGE */
 @media only screen and (min-width: 768px) {
