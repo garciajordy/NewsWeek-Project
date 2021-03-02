@@ -54,9 +54,14 @@ a:hover {
   color: #fff;
 }
 
+.login:hover {
+  color: #fff;
+}
+
 .subscribe {
   background-color: #ff0;
   border-radius: 25px;
+  transform: scale(0.6);
 }
 
 .nav-head button {
@@ -112,6 +117,10 @@ a:hover {
   font-size: 14px;
   color: rgb(109, 109, 109);
   border-right: rgb(190, 190, 190) solid 1px;
+}
+
+.culture-container a {
+  color: rgb(119, 119, 119);
 }
 
 .social-media a:hover {
@@ -174,10 +183,31 @@ hr {
   border: rgb(231, 231, 231) solid 1px;
 }
 
+.top-text {
+  color: rgb(253, 0, 0);
+}
+
+.culture-container a:hover {
+  text-decoration: none;
+}
+
+.fa-bars {
+  color: #fff;
+}
+
+.debate-text {
+  color: rgb(70, 70, 70);
+  font-weight: 900;
+}
+
 /* MEDIA QUERY FOR LARGE */
 @media only screen and (min-width: 768px) {
   .fa-bars {
     transform: scale(1.5);
+  }
+
+  .subscribe {
+    transform: scale(0.5);
   }
 }
 
@@ -188,5 +218,9 @@ hr {
 
   .nav-head button {
     height: 30px;
+  }
+
+  .social {
+    transform: scale(2);
   }
 }
