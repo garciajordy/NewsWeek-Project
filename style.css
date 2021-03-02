@@ -56,6 +56,15 @@ a:hover {
 .subscribe {
   background-color: #ff0;
   border-radius: 25px;
+  color: #000;
+}
+
+.subscribe:hover {
+  color: #000;
+}
+
+.login:hover {
+  color: #fff;
 }
 
 .nav-head button {
@@ -149,5 +158,9 @@ a:hover {
 
   .nav-head button {
     height: 30px;
+  }
+
+  .social {
+    transform: scale(2);
   }
 }

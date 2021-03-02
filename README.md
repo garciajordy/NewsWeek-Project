@@ -4,7 +4,7 @@
 
 > Created this website clone completely with bootstrap
 
-![screenshot](./milestone1.png)
+![screenshot](assets/milestone1.png)
 
 ## Built With
 
