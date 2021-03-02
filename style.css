@@ -148,6 +148,20 @@ a:hover {
   border-top: rgb(231, 231, 231) solid 1px;
 }
 
+/*
+    ==============================================
+                ****** MILESTONE 2 MAIN ******
+    ==============================================
+*/
+
+.debate-article {
+  border-top: rgb(231, 231, 231) solid 2px;
+}
+
+hr {
+  width: 45%;
+  size: 3px;
+}
 
 /* MEDIA QUERY FOR LARGE */
 @media only screen and (min-width: 768px) {
