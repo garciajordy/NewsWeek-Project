@@ -219,6 +219,21 @@ hr {
                 ****** MILESTONE 3 MAIN ******
     ==============================================
 */
+
+.small-con,
+.big-con {
+  border-bottom: rgb(190, 190, 190) solid 1px;
+}
+
+.top-text-bottom {
+  color: #f42;
+}
+
+.top-text-bottom:hover {
+  text-decoration: none;
+  color: #f42;
+}
+
 .magazine-icon {
   color: #fff;
   background-color: #f72210;
@@ -239,6 +254,41 @@ hr {
 
 .zine-heading {
   border-bottom: 1px solid rgb(231, 231, 231);
+}
+
+.book2 {
+  top: 70px;
+  left: 80px;
+}
+
+.left-con-bottom {
+  background-color: rgb(233, 230, 230);
+}
+
+.left-bottom-bg {
+  background: url(assets/newsletter.png);
+  background-size: 100% 100%;
+  min-height: 200px;
+}
+
+.text-con-border {
+  border-bottom: rgb(190, 190, 190) solid 1px;
+  border-top: rgb(190, 190, 190) solid 1px;
+  border-right: rgb(190, 190, 190) solid 1px;
+}
+
+.bttn {
+  background-color: #f72210;
+  color: #fff;
+}
+
+.bttn:hover {
+  color: #fff;
+}
+
+.books {
+  min-height: 150px;
+  min-width: 100px;
 }
 
 /* MEDIA QUERY FOR LARGE */
