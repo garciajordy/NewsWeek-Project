@@ -15,6 +15,18 @@
 |:---:|:---:|:---:|
  Desktop view | Tablet view | Mobile view |
 
+### US, World, Business, Tech & Science, Culture and Sports
+
+| ![screenshot](assets/us-laptop.png) | ![screenshot](assets/us-tablet.png) | ![screenshot](assets/us-mobile.png) |
+|:---:|:---:|:---:|
+ Desktop view | Tablet view | Mobile view |
+
+### Subscribe & Newsletter section
+
+| ![screenshot](assets/subscribe-laptop.png) | ![screenshot](assets/subscribe-tablet.png) | ![screenshot](assets/subscribe-mobile.png) |
+|:---:|:---:|:---:|
+ Desktop view | Tablet view | Mobile view |
+
 
 ### Footer
 
