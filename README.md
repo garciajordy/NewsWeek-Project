@@ -4,14 +4,23 @@
 
 > Created this website clone completely with bootstrap
 
-### Desktop view
-![screenshot](assets/milestone2-laptop.png)
+### Header and main column sections
+| ![screenshot](assets/milestone2-laptop.png) | ![screenshot](assets/milestone2-tablet.png) | ![screenshot](assets/milestone2-phone.png) |
+|:---:|:---:|:---:|
+ Desktop view | Tablet view | Mobile view |
 
-### Tablet view
-![screenshot](assets/milestone2-tablet.png)
+### in the Magazine & Editor Picks sections
 
-### Mobile view
-![screenshot](assets/milestone2-phone.png)
+| ![screenshot](assets/milestone3-mag-editor-laptop.png) | ![screenshot](assets/milestone3-mag-editor-tablet.png) | ![screenshot](assets/milestone3-mag-editor-mobile.png) |
+|:---:|:---:|:---:|
+ Desktop view | Tablet view | Mobile view |
+
+
+### Footer
+
+| ![screenshot](assets/footer-desktop.png) | ![screenshot](assets/footer-tablet.png) | ![screenshot](assets/footer-mobile.png) |
+|:---:|:---:|:---:|
+ Desktop view | Tablet view | Mobile view |
 
 ## Built With
 
