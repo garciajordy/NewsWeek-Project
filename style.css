@@ -28,11 +28,12 @@ ul {
 
 a {
   text-decoration: none;
-  color: white;
+  color: #000;
 }
 
 a:hover {
-  color: #333;
+  color: rgb(0, 0, 0);
+  text-decoration-color: #f72210;
 }
 
 /*
@@ -53,18 +54,19 @@ a:hover {
   color: #fff;
 }
 
+.login:hover {
+  color: #fff;
+}
+
 .subscribe {
   background-color: #ff0;
   border-radius: 25px;
+  transform: scale(0.8);
   color: #000;
 }
 
 .subscribe:hover {
   color: #000;
-}
-
-.login:hover {
-  color: #fff;
 }
 
 .nav-head button {
@@ -93,7 +95,9 @@ a:hover {
 }
 
 #last-link,
-#last-link2 {
+#last-link2,
+#last-opinion,
+#last-opinion-2 {
   border: none;
 }
 
@@ -118,6 +122,10 @@ a:hover {
   font-size: 14px;
   color: rgb(109, 109, 109);
   border-right: rgb(190, 190, 190) solid 1px;
+}
+
+.culture-container a {
+  color: rgb(119, 119, 119);
 }
 
 .social-media a:hover {
@@ -145,6 +153,63 @@ a:hover {
   text-decoration: none;
 }
 
+.turn-link {
+  font-size: 17px;
+}
+
+.turn-link a:hover {
+  color: #000;
+  text-decoration-color: #f72210;
+}
+
+.turn-container {
+  border-top: rgb(231, 231, 231) solid 1px;
+}
+
+/*
+    ==============================================
+                ****** MILESTONE 2 MAIN ******
+    ==============================================
+*/
+
+.debate-article {
+  border-top: rgb(231, 231, 231) solid 2px;
+}
+
+.opinion-article {
+  border-bottom: rgb(231, 231, 231) solid 2px;
+}
+
+hr {
+  width: 45%;
+}
+
+.right-text-con {
+  border: rgb(231, 231, 231) solid 1px;
+}
+
+.top-text {
+  color: rgb(253, 0, 0);
+}
+
+.top-text a:hover {
+  text-decoration: none;
+}
+
+.culture-container a:hover {
+  text-decoration: none;
+}
+
+.fa-bars {
+  color: #fff;
+}
+
+.debate-text {
+  color: rgb(70, 70, 70);
+  font-weight: 900;
+  font-size: 15px;
+}
+
 /* MEDIA QUERY FOR LARGE */
 @media only screen and (min-width: 768px) {
   .fa-bars {
@@ -163,5 +228,9 @@ a:hover {
 
   .social {
     transform: scale(2);
+  }
+
+  .subscribe {
+    transform: scale(1);
   }
 }

@@ -4,7 +4,14 @@
 
 > Created this website clone completely with bootstrap
 
-![screenshot](assets/milestone1.png)
+### Desktop view
+![screenshot](assets/milestone2-laptop.png)
+
+### Tablet view
+![screenshot](assets/milestone2-tablet.png)
+
+### Mobile view
+![screenshot](assets/milestone2-phone.png)
 
 ## Built With
 
