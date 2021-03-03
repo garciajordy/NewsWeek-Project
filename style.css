@@ -235,6 +235,35 @@ hr {
   background-color: #f72210;
 }
 
+.book2 {
+  top: 70px;
+  left: 80px;
+}
+
+.left-con-bottom {
+  background-color: rgb(233, 230, 230);
+}
+
+.left-bottom-bg {
+  background: url(assets/newsletter.png);
+  background-size: 100% 100%;
+  min-height: 200px;
+}
+
+.text-con-border {
+  border-bottom: rgb(190, 190, 190) solid 1px;
+  border-top: rgb(190, 190, 190) solid 1px;
+  border-right: rgb(190, 190, 190) solid 1px;
+}
+
+.bttn {
+  background-color: #f72210;
+  color: #fff;
+}
+
+.bttn:hover {
+  color: #fff;
+}
 /* MEDIA QUERY FOR LARGE */
 @media only screen and (min-width: 768px) {
   .fa-bars {
