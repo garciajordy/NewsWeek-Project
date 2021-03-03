@@ -44,6 +44,7 @@ a:hover {
 
 .top-nav {
   background-color: #f72210;
+  animation: menu 10s infinite;
 }
 
 .time {
@@ -63,6 +64,7 @@ a:hover {
   border-radius: 25px;
   transform: scale(0.8);
   color: #000;
+  animation: subscribee 2s infinite;
 }
 
 .subscribe:hover {
@@ -289,6 +291,43 @@ hr {
 .books {
   min-height: 150px;
   min-width: 100px;
+}
+
+/*
+    ==============================================
+                ****** ANIMATION & TRANSITIONS ******
+    ==============================================
+*/
+
+#logo {
+  transition: 1s;
+}
+
+#logo:hover {
+  transform: rotate(360deg);
+}
+
+@keyframes menu {
+  0% {
+    background-color: yellow;
+    transform: scale(1, 0);
+  }
+
+  50% {
+    background-color: red;
+    transform: scale(1, 1);
+  }
+
+  100% {
+    background-color: green;
+    transform: scale(0, 1);
+  }
+}
+
+@keyframes subscribee {
+  0% { background-color: green; }
+  50% { background-color: yellow; }
+  100% { background-color: red; }
 }
 
 /* MEDIA QUERY FOR LARGE */
