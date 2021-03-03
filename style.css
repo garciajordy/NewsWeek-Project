@@ -215,6 +215,21 @@ hr {
                 ****** MILESTONE 3 MAIN ******
     ==============================================
 */
+
+.small-con,
+.big-con {
+  border-bottom: rgb(190, 190, 190) solid 1px;
+}
+
+.top-text-bottom {
+  color:#f42;
+}
+
+.top-text-bottom:hover {
+  text-decoration: none;
+  color:#f42;
+}
+
 .magazine-icon {
   color: #fff;
   background-color: #f72210;
