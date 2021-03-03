@@ -291,6 +291,22 @@ hr {
   min-width: 100px;
 }
 
+/*
+    ==============================================
+                ****** PRACTICE TRANSITIONS ******
+    ==============================================
+*/
+.newsweek-logo {
+  display: block;
+  width: 100%;
+  transition-duration: 4s;
+}
+
+.newsweek-logo:hover {
+  width: 80%;
+  transform: rotate(360deg);
+}
+
 /* MEDIA QUERY FOR LARGE */
 @media only screen and (min-width: 768px) {
   .fa-bars {
